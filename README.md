@@ -14,7 +14,7 @@ You need to download and install [FFMPEG](https://ffmpeg.org/download.html) in s
 ##Installation
 
 ```
-npm i ipcamera-stream
+npm i @jmarellanocreation/ipcamera-stream
 ```
 
 ## Server
@@ -42,7 +42,7 @@ new IPCameraStream({
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>DEMO node-rtsp-stream-jsmpeg</title>
+  <title>DEMO Webpage for ipcamera-stream</title>
   <script src="https://jsmpeg.com/jsmpeg.min.js"></script>
 </head>
 <body>
