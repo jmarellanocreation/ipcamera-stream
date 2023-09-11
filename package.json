@@ -1,6 +1,6 @@
 {
   "name": "@jmarellanocreation/ipcamera-stream",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Stream IP Camera RTSP stream and output to Webpage",
   "main": "index.js",
   "scripts": {
