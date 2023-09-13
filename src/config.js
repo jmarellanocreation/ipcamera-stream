@@ -7,5 +7,6 @@ module.exports = {
     'fps': '30',
     'secret': 'secret1',
     'recordStream': false,
-    'recordPath': ''
+    'recordPath': '',
+    'maxStorageGB': 40
 }

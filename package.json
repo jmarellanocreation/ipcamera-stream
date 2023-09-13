@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/jmarellanocreation/ipcamera-stream#readme",
   "dependencies": {
+    "moment": "^2.29.4",
     "ws": "^8.13.0"
   }
 }

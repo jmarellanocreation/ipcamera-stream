@@ -28,6 +28,8 @@ class IPCameraStream {
             configs.recordStream = options.recordStream;
         if(options.recordPath)   
             configs.recordPath = options.recordPath;
+        if(options.maxStorageGB)   
+            configs.maxStorageGB = options.maxStorageGB;
         this.init(configs);
     }
 
